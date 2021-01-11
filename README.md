@@ -16,6 +16,5 @@
  Target: Android and iOS
 ## Extra point
  This app has the ability of   Ndef writing, get UID of tag, send mifare command and APDU exchange and so on.
-## Contact
- Email: sunrise098@outlook.com
+
 
